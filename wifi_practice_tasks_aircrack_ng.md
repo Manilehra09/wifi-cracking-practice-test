@@ -175,8 +175,3 @@ A progressive set of hands-on practice tasks for learning wireless security test
 - Aircrack-ng docs, hcxtools docs, Kismet docs
 
 ---
-
-If you'd like, I can:
-1. Also save this as a PDF (done),  
-2. Add individual ready-to-run bash scripts for Tasks 1–4, or  
-3. Create a printable scoring checklist for the Capstone task.
